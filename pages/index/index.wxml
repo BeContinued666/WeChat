@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<view class="container">
+  <image src="/images/8.jpg" />
+  <text class="name">深度美</text>
+  <text class="gs">欢迎来到深度美</text>
+</view>
