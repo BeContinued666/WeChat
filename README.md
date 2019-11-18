@@ -1,2 +1,2 @@
-# WeChat
-微信小程序
+# weChatServe
+微信公众号
